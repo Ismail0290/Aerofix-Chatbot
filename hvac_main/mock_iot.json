@@ -1,0 +1,13 @@
+{
+  "unit_id": "DX-9900",
+  "brand": "Daikin",
+  "model_id": "FTKM35",
+  "sensors": {
+    "ambient_temp": "35C",
+    "compressor_freq": "45Hz",
+    "discharge_pipe_temp": "105C",
+    "refrigerant_pressure": "low",
+    "error_code_raw": "E6"
+  },
+  "status": "fault"
+}

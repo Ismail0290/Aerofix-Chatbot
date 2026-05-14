@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+autoSave.json
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chroma vector DB
+vector_db/
+
+# Logs
+*.log
+
+# Local config
+.env
+.env.*
